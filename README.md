@@ -24,8 +24,8 @@
 
 ## Connect With Me
 - GitHub: https://github.com/kumarsumit09224-creator
-- LinkedIn: Add your LinkedIn profile link here
-
+- LinkedIn: [Add your LinkedIn profile link here
+](https://www.linkedin.com/in/sumit-069923368?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 <!--
 **kumarsumit09224-creator/kumarsumit09224-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
